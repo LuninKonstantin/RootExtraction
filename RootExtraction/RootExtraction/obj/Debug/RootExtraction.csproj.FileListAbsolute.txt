@@ -1,0 +1,7 @@
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\RootExtraction\RootExtraction\bin\Debug\RootExtraction.exe.config
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\RootExtraction\RootExtraction\bin\Debug\RootExtraction.exe
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\RootExtraction\RootExtraction\bin\Debug\RootExtraction.pdb
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\RootExtraction\RootExtraction\obj\Debug\RootExtraction.csproj.AssemblyReference.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\RootExtraction\RootExtraction\obj\Debug\RootExtraction.csproj.CoreCompileInputs.cache
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\RootExtraction\RootExtraction\obj\Debug\RootExtraction.exe
+D:\Лунин Константин и Мамонов Роман\Lunin Konstantin\RootExtraction\RootExtraction\obj\Debug\RootExtraction.pdb
